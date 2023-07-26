@@ -1,4 +1,8 @@
-public class Jogador extends Atributos{
+package characters;
+
+import services.Atributos;
+
+public class Jogador extends Atributos {
 
     private Inimigo inimigo;
 

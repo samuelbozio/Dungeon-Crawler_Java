@@ -1,3 +1,9 @@
+package application;
+
+import characters.Inimigo;
+import characters.Jogador;
+import services.Game;
+
 public class Main {
     public static void main(String[] args) {
 

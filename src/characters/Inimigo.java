@@ -1,3 +1,7 @@
+package characters;
+
+import services.Atributos;
+
 public class Inimigo extends Atributos {
 
     private Jogador jogador;
